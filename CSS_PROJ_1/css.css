@@ -13,8 +13,248 @@ body{
     position: absolute; 
     top: 180px;
     left: 460px;
-    border: 2px solid white;
+    border: 1px solid white;
 }
+/* .container1{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(10deg);
+    animation: spin 5s infinite linear;
+}
+.container2{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(20deg);
+    animation: spin 5s infinite linear ;
+}
+.container3{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(30deg);
+    animation: spin 5s infinite linear ;
+}
+.container4{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(40deg);
+    animation: spin 5s infinite linear ;
+}
+.container5{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(50deg);
+    animation: spin 5s infinite linear ;
+}
+.container6{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(60deg);
+    animation: spin 5s infinite linear ;
+}
+.container7{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(70deg);
+    animation: spin 5s infinite linear ;
+}
+.container8{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(80deg);
+    animation: spin 5s infinite linear ;
+}
+.container9{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(90deg);
+    animation: spin 5s infinite linear ;
+}
+.container10{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(100deg);
+    animation: spin 5s infinite linear ;
+}
+.container11{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(110deg);
+    animation: spin 5s infinite linear ;
+}
+.container12{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(120deg);
+    animation: spin 5s infinite linear ;
+}
+.container13{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(130deg);
+    animation: spin 5s infinite linear ;
+}
+.container14{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(140deg);
+    animation: spin 5s infinite linear ;
+}
+.container15{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(150deg);
+    animation: spin 5s infinite linear ;
+}
+.container16{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(160deg);
+    animation: spin 5s infinite linear ;
+}
+.container17{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(170deg);
+    animation: spin 5s infinite linear ;
+}
+.container18{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(180deg);
+    animation: spin 5s infinite linear ;
+}
+.container19{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(190deg);
+    animation: spin 5s infinite linear ;
+}
+.container20{
+    display: inline-block;
+    height: 350px;
+    width: 450px; 
+    background-color:transparent;
+    position: absolute; 
+    top: 180px;
+    left: 460px;
+    border: 1px solid white;
+    transform: rotate(200deg);
+    animation: spin 5s infinite linear ;
+} */
 .moon{
     height: 150px;
     width: 150px;
